@@ -1,0 +1,6 @@
+[submodule "A3C"]
+	path = A3C
+	url = https://github.com/gabrijob/A3C_mq.git
+[submodule "SAQN"]
+	path = SAQN
+	url = https://github.com/gabrijob/SAQN_mq.git
